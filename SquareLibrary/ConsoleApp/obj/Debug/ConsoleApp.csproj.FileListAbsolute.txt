@@ -1,0 +1,10 @@
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\bin\Debug\ClassLibrary.dll
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\bin\Debug\ClassLibrary.pdb
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Programmer\Job\hh\SquareLibrary\ConsoleApp\obj\Debug\ConsoleApp.pdb
